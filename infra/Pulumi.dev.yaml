@@ -1,0 +1,8 @@
+config:
+  azure-native:location: westeurope
+  ms:kubernetesVersion: 1.28.3
+  ms:mgmtGroupId: 7d710435-d3e3-4028-984d-54d6091d61fa
+  ms:nodeVmSize: Standard_DS2_v2
+  ms:numWorkerNodes: "3"
+  ms:prefixForDns: pulumi
+  ms:sshPubKey: <key>
